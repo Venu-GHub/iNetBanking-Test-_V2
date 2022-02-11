@@ -1,0 +1,196 @@
+2022-01-04 23:54:03,377 [main] INFO iNetBanking - Page Launched
+2022-01-04 23:54:04,118 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-05 00:00:39,826 [main] INFO iNetBanking - Page Launched
+2022-01-05 00:00:40,493 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-05 00:07:41,141 [main] INFO iNetBanking - Page Launched
+2022-01-05 00:07:41,763 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-05 00:12:15,036 [main] INFO iNetBanking - Page Launched
+2022-01-05 00:12:15,865 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-05 01:10:11,397 [main] INFO iNetBanking - Page Launched
+2022-01-05 01:10:33,228 [main] INFO iNetBanking - Page Launched
+2022-01-05 01:10:33,871 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-05 01:10:33,872 [main] INFO iNetBanking - login failed
+2022-01-05 01:11:39,981 [main] INFO iNetBanking - Page Launched
+2022-01-05 01:11:40,590 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:22:13,596 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:22:14,449 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:26:28,273 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:26:29,147 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:32:29,246 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:32:30,014 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:43:12,180 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:43:12,799 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:44:59,304 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:44:59,818 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:44:59,819 [main] INFO iNetBanking - login failed
+2022-01-07 00:46:22,708 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:46:23,546 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-07 00:46:23,546 [main] INFO iNetBanking - login failed
+2022-01-07 00:48:05,782 [main] INFO iNetBanking - Page Launched
+2022-01-07 00:48:06,626 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 18:34:23,870 [main] INFO iNetBanking - Page Launched
+2022-01-09 18:34:24,841 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 19:50:14,501 [main] INFO iNetBanking - Page Launched
+2022-01-09 19:50:15,174 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 20:14:07,717 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:14:08,727 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 20:16:00,439 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:17:25,012 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:19:04,015 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:19:04,835 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 20:20:24,067 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:20:24,676 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 20:30:44,583 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:30:45,631 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-09 20:31:16,277 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:33:26,949 [main] INFO iNetBanking - Page Launched
+2022-01-09 20:33:27,772 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-11 20:35:14,998 [main] INFO iNetBanking - Page Launched
+2022-01-11 20:35:15,828 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-11 23:01:28,475 [main] INFO iNetBanking - Username provided
+2022-01-11 23:01:28,548 [main] INFO iNetBanking - Password provided
+2022-01-11 23:01:31,756 [main] INFO iNetBanking - login passed
+2022-01-11 23:01:36,226 [main] INFO iNetBanking - Username provided
+2022-01-11 23:01:36,380 [main] INFO iNetBanking - Password provided
+2022-01-11 23:01:40,383 [main] INFO iNetBanking - Username provided
+2022-01-11 23:01:40,455 [main] INFO iNetBanking - Password provided
+2022-01-11 23:01:44,422 [main] INFO iNetBanking - Username provided
+2022-01-11 23:01:44,499 [main] INFO iNetBanking - Password provided
+2022-01-11 23:01:47,991 [main] INFO iNetBanking - login passed
+2022-01-23 20:12:54,263 [main] INFO iNetBanking - Username provided
+2022-01-23 20:12:54,362 [main] INFO iNetBanking - Password provided
+2022-01-23 20:12:58,046 [main] INFO iNetBanking - Username provided
+2022-01-23 20:12:58,097 [main] INFO iNetBanking - Password provided
+2022-01-23 20:13:01,986 [main] INFO iNetBanking - Username provided
+2022-01-23 20:13:02,042 [main] INFO iNetBanking - Password provided
+2022-01-23 20:13:05,993 [main] INFO iNetBanking - Username provided
+2022-01-23 20:13:06,054 [main] INFO iNetBanking - Password provided
+2022-01-23 20:25:18,492 [main] INFO iNetBanking - Username provided
+2022-01-23 20:25:18,595 [main] INFO iNetBanking - Password provided
+2022-01-23 20:25:22,492 [main] INFO iNetBanking - Username provided
+2022-01-23 20:25:22,538 [main] INFO iNetBanking - Password provided
+2022-01-23 20:25:26,335 [main] INFO iNetBanking - Username provided
+2022-01-23 20:25:26,416 [main] INFO iNetBanking - Password provided
+2022-01-23 20:25:30,043 [main] INFO iNetBanking - login passed
+2022-01-23 20:25:34,291 [main] INFO iNetBanking - Username provided
+2022-01-23 20:25:34,357 [main] INFO iNetBanking - Password provided
+2022-01-23 20:28:55,798 [main] INFO iNetBanking - User Logged In
+2022-01-23 20:51:34,430 [main] INFO iNetBanking - User Logged In
+2022-01-23 20:56:34,158 [main] INFO iNetBanking - User Logged In
+2022-01-23 21:03:52,346 [main] INFO iNetBanking - User Logged In
+2022-01-23 23:17:11,195 [main] INFO iNetBanking - User Logged In
+2022-01-23 23:36:08,226 [main] INFO iNetBanking - User Logged In
+2022-01-23 23:42:22,015 [main] INFO iNetBanking - User Logged In
+2022-01-23 23:44:37,435 [main] INFO iNetBanking - User Logged In
+2022-01-23 23:48:25,994 [main] INFO iNetBanking - User Logged In
+2022-01-23 23:55:29,848 [main] INFO iNetBanking - Add New Customer Test Launch
+2022-01-23 23:55:33,639 [main] INFO iNetBanking - User Logged In
+2022-01-25 22:21:24,480 [main] INFO iNetBanking - User Logged In
+2022-01-25 22:31:23,972 [main] INFO iNetBanking - User Logged In
+2022-01-25 22:41:27,644 [main] INFO iNetBanking - User Logged In
+2022-01-25 22:58:12,941 [main] INFO iNetBanking - User Logged In
+2022-01-25 23:00:13,603 [main] INFO iNetBanking - User Logged In
+2022-01-27 00:20:26,677 [main] INFO iNetBanking - User Logged In
+2022-01-27 22:17:05,670 [main] INFO iNetBanking - User Logged In
+2022-01-27 22:18:21,568 [main] INFO iNetBanking - User Logged In
+2022-01-27 22:41:20,520 [main] INFO iNetBanking - Username provided
+2022-01-27 22:41:20,574 [main] INFO iNetBanking - Password provided
+2022-01-27 22:41:24,523 [main] INFO iNetBanking - Username provided
+2022-01-27 22:41:24,566 [main] INFO iNetBanking - Password provided
+2022-01-27 22:41:28,441 [main] INFO iNetBanking - Username provided
+2022-01-27 22:41:28,509 [main] INFO iNetBanking - Password provided
+2022-01-27 22:41:32,184 [main] INFO iNetBanking - login passed
+2022-01-27 22:41:36,422 [main] INFO iNetBanking - Username provided
+2022-01-27 22:41:36,478 [main] INFO iNetBanking - Password provided
+2022-01-27 22:42:52,620 [main] INFO iNetBanking - Username provided
+2022-01-27 22:42:52,669 [main] INFO iNetBanking - Password provided
+2022-01-27 22:42:56,619 [main] INFO iNetBanking - Username provided
+2022-01-27 22:42:56,668 [main] INFO iNetBanking - Password provided
+2022-01-27 22:46:31,463 [main] INFO iNetBanking - Page Launched
+2022-01-27 22:46:32,254 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-27 22:47:08,982 [main] INFO iNetBanking - Username provided
+2022-01-27 22:47:09,029 [main] INFO iNetBanking - Password provided
+2022-01-27 22:47:13,084 [main] INFO iNetBanking - Username provided
+2022-01-27 22:47:13,132 [main] INFO iNetBanking - Password provided
+2022-01-27 22:47:16,981 [main] INFO iNetBanking - Username provided
+2022-01-27 22:47:17,045 [main] INFO iNetBanking - Password provided
+2022-01-27 22:47:20,285 [main] INFO iNetBanking - login passed
+2022-01-27 22:47:24,944 [main] INFO iNetBanking - Username provided
+2022-01-27 22:47:25,016 [main] INFO iNetBanking - Password provided
+2022-01-27 22:48:06,817 [main] INFO iNetBanking - User Logged In
+2022-01-27 22:55:35,412 [main] INFO iNetBanking - User Logged In
+2022-01-27 23:00:45,768 [main] INFO iNetBanking - User Logged In
+2022-01-27 23:05:18,778 [main] INFO iNetBanking - User Logged In
+2022-01-27 23:05:23,799 [main] INFO iNetBanking - Driver created
+2022-01-27 23:05:23,866 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-01-27 23:05:34,822 [main] INFO iNetBanking - Validation started
+2022-01-27 23:06:50,756 [main] INFO iNetBanking - User Logged In
+2022-01-27 23:06:55,777 [main] INFO iNetBanking - Driver created
+2022-01-27 23:06:55,845 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-01-27 23:07:06,033 [main] INFO iNetBanking - Validation started
+2022-01-27 23:12:01,763 [main] INFO iNetBanking - User Logged In
+2022-01-27 23:12:13,781 [main] INFO iNetBanking - Driver created
+2022-01-27 23:12:24,504 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-01-27 23:46:23,523 [main] INFO iNetBanking - User Logged In
+2022-01-27 23:46:23,538 [main] INFO iNetBanking - Driver created
+2022-01-27 23:46:23,613 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-01-27 23:46:33,815 [main] INFO iNetBanking - Validation started
+2022-01-28 00:27:26,161 [main] INFO iNetBanking - Page Launched
+2022-01-28 00:27:26,905 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-28 00:27:34,347 [main] INFO iNetBanking - User Logged In
+2022-01-28 00:27:34,351 [main] INFO iNetBanking - Driver created
+2022-01-28 00:27:34,426 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-01-28 00:27:44,741 [main] INFO iNetBanking - Validation started
+2022-01-30 23:49:03,104 [main] INFO iNetBanking - Page Launched
+2022-01-30 23:49:03,746 [main] INFO iNetBanking - Login Passed - Logger
+2022-01-30 23:49:11,242 [main] INFO iNetBanking - User Logged In
+2022-01-30 23:49:11,249 [main] INFO iNetBanking - Driver created
+2022-01-30 23:49:11,317 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-01-30 23:49:21,357 [main] INFO iNetBanking - Validation started
+2022-02-02 00:21:04,658 [main] INFO iNetBanking - Page Launched
+2022-02-02 00:21:12,724 [main] INFO iNetBanking - User Logged In
+2022-02-02 00:21:12,731 [main] INFO iNetBanking - Driver created
+2022-02-02 00:21:12,789 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-02 00:21:22,200 [main] INFO iNetBanking - Validation started
+2022-02-02 00:47:47,457 [main] INFO iNetBanking - Page Launched
+2022-02-02 00:47:48,243 [main] INFO iNetBanking - Login Passed - Logger
+2022-02-02 00:47:55,734 [main] INFO iNetBanking - User Logged In
+2022-02-02 00:47:55,750 [main] INFO iNetBanking - Driver created
+2022-02-02 00:47:55,818 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-02 00:48:05,286 [main] INFO iNetBanking - Validation started
+2022-02-02 00:51:10,698 [main] INFO iNetBanking - Page Launched
+2022-02-02 00:51:11,452 [main] INFO iNetBanking - Login Passed - Logger
+2022-02-02 00:51:19,104 [main] INFO iNetBanking - User Logged In
+2022-02-02 00:51:19,112 [main] INFO iNetBanking - Driver created
+2022-02-02 00:51:19,206 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-02 00:51:28,689 [main] INFO iNetBanking - Validation started
+2022-02-02 00:54:08,406 [main] INFO iNetBanking - Page Launched
+2022-02-02 00:54:09,165 [main] INFO iNetBanking - Login Passed - Logger
+2022-02-02 00:54:16,774 [main] INFO iNetBanking - User Logged In
+2022-02-02 00:54:16,785 [main] INFO iNetBanking - Driver created
+2022-02-02 00:54:16,861 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-02 00:54:26,735 [main] INFO iNetBanking - Validation started
+2022-02-05 17:51:05,757 [main] INFO iNetBanking - Page Launched
+2022-02-05 17:51:06,484 [main] INFO iNetBanking - Login Passed - Logger
+2022-02-05 17:51:14,017 [main] INFO iNetBanking - User Logged In
+2022-02-05 17:51:14,033 [main] INFO iNetBanking - Driver created
+2022-02-05 17:51:14,101 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-05 17:51:23,380 [main] INFO iNetBanking - Validation started
+2022-02-05 17:51:38,517 [main] INFO iNetBanking - Page Launched
+2022-02-05 17:51:39,253 [main] INFO iNetBanking - Login Passed - Logger
+2022-02-05 17:51:46,681 [main] INFO iNetBanking - User Logged In
+2022-02-05 17:51:46,688 [main] INFO iNetBanking - Driver created
+2022-02-05 17:51:46,774 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-05 17:51:59,094 [main] INFO iNetBanking - Validation started
+2022-02-05 17:52:39,779 [main] INFO iNetBanking - Page Launched
+2022-02-05 17:52:47,860 [main] INFO iNetBanking - User Logged In
+2022-02-05 17:52:47,868 [main] INFO iNetBanking - Driver created
+2022-02-05 17:52:47,933 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-05 17:52:57,410 [main] INFO iNetBanking - Validation started
+2022-02-06 22:50:26,601 [main] INFO iNetBanking - Page Launched
+2022-02-06 22:50:27,443 [main] INFO iNetBanking - Login Passed - Logger
+2022-02-06 22:50:35,886 [main] INFO iNetBanking - User Logged In
+2022-02-06 22:50:35,890 [main] INFO iNetBanking - Driver created
+2022-02-06 22:50:35,950 [main] INFO iNetBanking - Clicked on Add New Customer link
+2022-02-06 22:50:47,472 [main] INFO iNetBanking - Validation started
+2022-02-10 00:07:31,400 [main] INFO iNetBanking - Page Launched
